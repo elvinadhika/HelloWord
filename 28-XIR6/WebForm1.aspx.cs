@@ -13,5 +13,10 @@ namespace _28_XIR6
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Label1.Text = "Hello Word";
+        }
     }
 }
